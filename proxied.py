@@ -31,9 +31,9 @@ while True:
             token = response_json.get('token')
             
             if token:
-                link_with_token = f'https://discord.com/billing/partner-promotions/1180231712274387115/{token}'
+                link_with_token = f'[DEVARXIFY] https://discord.com/billing/partner-promotions/1180231712274387115/{token}'
                 print(f"new code saved to output.txt")
                 with open('output.txt', 'a') as output_file:
-                    output_file.write(f'{link_with_token}\n')
+                    output_file.write(f'{link_with_token}\n\n')
         except Exception as e:
             print(f"Proxy {proxy} - Error: {e}")
