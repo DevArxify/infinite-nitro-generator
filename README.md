@@ -13,4 +13,4 @@ The codes will be saved in `output.txt`.
 # Credits
 User-Agent taken from No Text To Speech's video "[OperaGX's Accidental Free Discord Nitro Generator!](https://www.youtube.com/watch?v=yWqqMp6ca30)"<br>
 Made with ❤ by arxify.<br>
-Licensed under the [WTFPL](https://github.com/devarxify/infinite-nitro-generator/blob/main/LICENSE.md).
+Licensed under the [WTFPL](https://github.com/devarxify/infinite-nitro-generator/blob/main/LICENSE).
