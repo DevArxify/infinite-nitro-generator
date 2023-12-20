@@ -1,7 +1,7 @@
 import requests
 
 url = 'https://api.discord.gx.games/v1/direct-fulfillment'
-data = '{"partnerUserId":"bc385c68-be5f-43c2-9713-cb2051fef65b"}'
+data = '{"partnerUserId":"296d29647f167054542c348963822235b34b58386ffb064da282996820b6236b"}'
 
 headers = {
     'authority': 'api.discord.gx.games',
