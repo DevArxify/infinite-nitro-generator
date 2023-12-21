@@ -5,10 +5,10 @@ arxify (DevArxify) nor any of his affiliates are responsible for the usage of th
 # Requirements
 `pip install requests`
 # Usage
-Clone the repository: `git clone github.com/devarxify/infinite-nitro-generator nitro-gen`<br>
-Open the folder: `cd nitro-gen`<br>
-Run the file (NON-PROXIED): `py main.py`<br>
-Run the file (PROXIED): `py proxied.py` (put your HTTP(S) proxies inside `proxies.txt`)<br>
+Clone the repository: `git clone github.com/devarxify/infinite-nitro-generator nitro-gen`<br><br>
+Open the folder: `cd nitro-gen`<br><br>
+Run the file (NON-PROXIED): `py main.py`<br><br>
+Run the file (PROXIED): `py proxied.py` (put your HTTP(S) proxies inside `proxies.txt`)<br><br>
 The codes will be saved in `output.txt`.
 # Credits
 User-Agent taken from No Text To Speech's video "[OperaGX's Accidental Free Discord Nitro Generator!](https://www.youtube.com/watch?v=yWqqMp6ca30)"<br>
